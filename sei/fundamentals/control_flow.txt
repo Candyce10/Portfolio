@@ -1,0 +1,18 @@
+what is control flow?
+ -- the execution of code in a controlled manner
+
+ sequence of our code - structure of our js document
+ - top to bottom
+
+ branching - logic / conditional statement
+     if else statements
+
+looping - repeat a set of instructions for a finite count
+    for while
+    for loop - for loop for president
+    while - trickier - run/ execute code until some condition is false
+     - make sure loop can close
+
+conditionals - if else - conditional operators - ternary statements
+loops - for loops / whiles / array methods (array iterators) /
+functions - execute blocks of code in a controlled manner 
