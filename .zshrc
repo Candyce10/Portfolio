@@ -124,3 +124,4 @@ export NVM_DIR="/home/candyce10/.nvm"
 export NVM_DIR="/home/candyce10/.nvm"
 [ -s "/home/candyce10/.nvm/nvm.sh" ] && \. "/home/candyce10/.nvm/nvm.sh" # This loads nvm
 [ -s "/home/candyce10/.nvm/bash_completion" ] && \. "/home/candyce10/.nvm/bash_completion" # This loads nvm bash_completion
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
